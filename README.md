@@ -1,2 +1,3 @@
 # hello-world
-try to get used to github
+hello my name is sylvia. I am a student from technical university of munich.
+
